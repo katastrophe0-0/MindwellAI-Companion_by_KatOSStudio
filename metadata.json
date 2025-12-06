@@ -1,0 +1,8 @@
+{
+  "name": "MindWell AI Companion",
+  "description": "An AI-powered application offering psychoeducational quizzes, coping strategies, and a supportive space to enhance mental well-being. Features include a conversational AI, real-time voice companion, resource finder, and creative tools for mindfulness.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
